@@ -1,0 +1,89 @@
+{
+  "module": "Diagnóstico operativo para PyMEs",
+  "source_branch": "hackathon/diagnostico-operativo-pymes",
+  "created": "2026-10-19",
+  "scope": "Copia de evaluación: los archivos del módulo son idénticos a la rama de desarrollo. Se excluyen el resto del sitio, su historial, configuración Supabase y documentos institucionales internos.",
+  "entries": [
+    {
+      "path": "src/features/diagnostico/Charts.tsx",
+      "sha256": "8bfd807162a9c143b3efb4ebf70a5cfc226fb11846634a319a392b1ea878c816"
+    },
+    {
+      "path": "src/features/diagnostico/DiagnosticApp.test.tsx",
+      "sha256": "e46ee2e467233298aa0acb5cb5c621f0d66fee7395f537e6fdf70665eae2c7ee"
+    },
+    {
+      "path": "src/features/diagnostico/DiagnosticApp.tsx",
+      "sha256": "f81642f0d6b6b9f86fe73d17de1f6ff24fce33afafb7bfab4cd8fec5938e5044"
+    },
+    {
+      "path": "src/features/diagnostico/diagnostico.css",
+      "sha256": "7a6a03d8a84a99dd65b5d5869d1c207757cab6cd410d06f3005ee733ab39a256"
+    },
+    {
+      "path": "src/features/diagnostico/exports.ts",
+      "sha256": "8a0121b9216d36eb986cf0a86a6b3d3193774df3774e3a8b5360285a0f7eb7e7"
+    },
+    {
+      "path": "src/features/diagnostico/model.test.ts",
+      "sha256": "b40f8ba8b871c194f573d9d18bad2ecdeed619db127a65cf599ff2147f381171"
+    },
+    {
+      "path": "src/features/diagnostico/model.ts",
+      "sha256": "a42d58ad775e016cdf7d62b95662eaebcedeb2a7e4e074ddcb20e68354f9c291"
+    },
+    {
+      "path": "src/features/diagnostico/storage.test.ts",
+      "sha256": "9de2ad13be548e30a11b1fdbe9c3ede92808d56cbf05e967435fa896ed8d26cc"
+    },
+    {
+      "path": "src/features/diagnostico/storage.ts",
+      "sha256": "7de31d5c37ad2d0b4c9f42ef976f634a0350b42657ed0edfe10a80dd74cff09f"
+    },
+    {
+      "path": "src/diagnostico-standalone/index.html",
+      "sha256": "c80f958e6eb5d729272ba068994221b8862ab6801c045c4d90716a0e1e75741a"
+    },
+    {
+      "path": "src/diagnostico-standalone/main.tsx",
+      "sha256": "cfca15a998c687371a40a6a921a39653b5d2830d18cc0ebdca7177f08a037cfe"
+    },
+    {
+      "path": "src/test/setup.ts",
+      "sha256": "049fd55d8c3bf8742482f5684ecf15407eadd752bad5e86907032112dc05a558"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "e86f30fcb44f4fe5aaa1138e6f432f0fc3c094d4d7ad36bcabfaf1db8ca96a0e"
+    },
+    {
+      "path": "vitest.config.ts",
+      "sha256": "0158325852b8c6c2c4c9e2ae02196430b432a7f40772eb546e227ce16b9da97b"
+    },
+    {
+      "path": "vite.diagnostico.config.ts",
+      "sha256": "376a8324d64c9d970c1171b86af8d1d2b5b2cba0078716cc1acc6e7efe83c01c"
+    },
+    {
+      "path": "public/favicon.svg",
+      "sha256": "4cfa0efa5775d36e1edd4d984560774e1bd57319b138d47e17baf4ed566e0cc2"
+    },
+    {
+      "path": "public/brand/indominia-horizontal.svg",
+      "sha256": "611ca78051c614479e45dbd13204c4a99eb0f50baaeb89e8203c277ebadd2a7c"
+    },
+    {
+      "path": "public/brand/indominia-horizontal-negative.svg",
+      "sha256": "7542d11f01255f7c1b0322dd64f58b8d67a8b5a35337925506cab93deda64beb"
+    },
+    {
+      "path": "public/brand/trama-nexo-protagonista.svg",
+      "sha256": "6cafc158538b9bb37484e78517ea5bd5be313a65142e4cfdc53f7ce7bd4611b8"
+    },
+    {
+      "path": "src/features/diagnostico/base.css",
+      "sha256": "56ae6e607b6b2cd7a1457e5a8371963d34de3b77dbfb06ffdf27fdc05432831c"
+    }
+  ],
+  "source_commit": "d67ecfec3041a882914aaafd41c6de68e551435e"
+}
