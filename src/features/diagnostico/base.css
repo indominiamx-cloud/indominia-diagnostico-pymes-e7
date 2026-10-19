@@ -1,0 +1,39 @@
+@import "tailwindcss/preflight.css";
+
+/* Standalone module: shared brand tokens, without styles from the commercial site. */
+:root {
+  --font-display: Bahnschrift, "Segoe UI", Arial, sans-serif;
+  --font-sans: "Segoe UI", Arial, sans-serif;
+  --font-mono: Consolas, "Courier New", monospace;
+  --petroleum: #123f3a;
+  --obsidian: #17191c;
+  --ivory: #f7f1e7;
+  --paper: #ffffff;
+  --sand: #e5d6bc;
+  --mist: #e7eeea;
+  --slate: #59645f;
+  --turquoise: #0a858b;
+  --agave: #679b3a;
+  --marigold: #f0ae27;
+  --terracotta: #c65a38;
+  --magenta: #ae2c70;
+  --cobalt: #2d5da8;
+  --wine: #792b42;
+  --coral: #d9433f;
+}
+
+html { scroll-padding-top: 88px; }
+body {
+  background-color: var(--ivory);
+  color: var(--obsidian);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  text-wrap: balance;
+}
+:focus-visible {
+  outline: 3px solid var(--turquoise);
+  outline-offset: 2px;
+}
