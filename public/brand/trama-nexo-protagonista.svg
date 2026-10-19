@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Trama Nexo protagonista</title>
+  <desc id="desc">Patrón modular multicolor para portadas y separadores.</desc>
+  
+  <defs>
+    <pattern id="nexo" width="160" height="160" patternUnits="userSpaceOnUse">
+      <rect width="160" height="160" fill="#F7F1E7"/>
+      <path fill="#123F3A" d="M0 0h40v20H20v20H0zM160 0h-40v20h20v20h20zM0 160h40v-20H20v-20H0zM160 160h-40v-20h20v-20h20z"/>
+      <path fill="#0A858B" d="M40 20h40v20H60v20H40z"/>
+      <path fill="#AE2C70" d="M120 20H80v20h20v20h20z"/>
+      <path fill="#679B3A" d="M20 60h40v20H40v20H20z"/>
+      <path fill="#C65A38" d="M140 60h-40v20h20v20h20z"/>
+      <path fill="#F0AE27" d="M40 100h40v20H60v20H40z"/>
+      <path fill="#2D5DA8" d="M120 100H80v20h20v20h20z"/>
+      <rect x="70" y="50" width="20" height="60" fill="#17191C"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="800" fill="url(#nexo)"/>
+</svg>

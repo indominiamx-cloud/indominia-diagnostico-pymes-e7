@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 120" role="img" aria-labelledby="title desc">
+  <title id="title">Logotipo horizontal de INDOMINIA</title>
+  <desc id="desc">Símbolo Nexo Modular acompañado por la denominación INDOMINIA CONSULTORÍA.</desc>
+  
+  <g transform="translate(18 18) scale(.48)"><path fill="#2D5DA8" d="M16 24h62l18 18-18 18H50L34 44H16z"/>
+  <path fill="#0A858B" d="M176 24h-62L96 42l18 18h28l16-16h18z"/>
+  <path fill="#679B3A" d="M16 66h42l20 20 18-18-20-20H32L16 64z" transform="translate(0 16)"/>
+  <path fill="#AE2C70" d="M176 66h-42l-20 20-18-18 20-20h44l16 16z" transform="translate(0 16)"/>
+  <path fill="#F0AE27" d="M16 108h44l18 18 18-18-18-18H34l-18 18z" transform="translate(0 12)"/>
+  <path fill="#C65A38" d="M176 108h-44l-18 18-18-18 18-18h44l18 18z" transform="translate(0 12)"/>
+  <path fill="#D9433F" d="M16 164h62l18-18-18-18H50l-16 16H16z"/>
+  <path fill="#792B42" d="M176 164h-62l-18-18 18-18h28l16 16h18z"/>
+  <path fill="#123F3A" d="M82 20h28v12l-10 10 10 10v120H82V52l10-10-10-10z"/></g>
+  <text x="128" y="79" fill="#17191C" font-family="Bahnschrift, Segoe UI, Arial, sans-serif" font-size="48" font-weight="600" letter-spacing="4.5">INDOMINIA</text>
+  <text x="132" y="103" fill="#123F3A" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="3.1">CONSULTORÍA</text>
+</svg>
